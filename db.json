@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "notebook mac pro",
+      "price": "3000.99",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "notebook mac pro",
+      "price": 1225.89
+    },
+    {
+      "id": 3,
+      "name": "celular J6",
+      "price": 678.89
+    },
+    {
+      "id": 4,
+      "name": "caderno 10 materia",
+      "price": "6.99"
+    },
+    {
+      "id": 5,
+      "name": "Escova de Dente",
+      "price": 7.99
+    },
+    {
+      "id": 6,
+      "name": "Mascara descartavel pacote 100 un.",
+      "price": 25.99
+    },
+    {
+      "name": "casa de boneca",
+      "price": "500.6",
+      "id": 7
+    }
+  ]
+}
