@@ -1,14 +1,9 @@
 {
   "products": [
     {
+      "id": 1,
       "name": "notebook mac pro",
-      "price": "3000.99",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "name": "notebook mac pro",
-      "price": 1225.89
+      "price": "3000.99"
     },
     {
       "id": 3,
@@ -34,6 +29,26 @@
       "name": "casa de boneca",
       "price": "500.6",
       "id": 7
+    },
+    {
+      "name": "casa",
+      "price": "1.000.000.99",
+      "id": 8
+    },
+    {
+      "name": "casa",
+      "price": "1000000.99",
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 10
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 11
     }
   ]
 }
