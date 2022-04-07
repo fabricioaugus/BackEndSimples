@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const importDb = require("./db.json")
 let port = process.env.PORT || 3001;
-app.get("/",(req,res)=>{
+app.get("/products",(req,res)=>{
     res.send(importDb);
 });
 
